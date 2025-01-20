@@ -5,5 +5,6 @@
 
 int main(){
 	printf("%s\n%s\n", "Hello World!!!", "Hello, ARS!!!");
+	func1();
 	return 0;
 }
